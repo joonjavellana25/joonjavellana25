@@ -1,5 +1,5 @@
 # Joon's README
-- 👋 Hi, I’m @joonjavellana25
+- 👋 Yo, this is Jonathan / Jon / Joon (@joonjavellana25)
 - 👀 I’m interested in developing web apps, editing videos, organizing events, surprising people, and deepening my faith in Christ.
 - 🌱 I’m currently learning how to grow as a victory life group leader and balance my roles as an IT consultant and an events organizer.
 - 💞️ I’m looking to collaborate on tech meetups, meaningful events, and faith-based discussions.
