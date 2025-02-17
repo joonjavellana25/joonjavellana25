@@ -3,7 +3,7 @@
 - 👀 I’m interested in developing web apps, editing videos, organizing events, surprising people, and deepening my faith in Christ.
 - 🌱 I’m currently learning how to grow as a victory life group leader and balance my roles as an IT consultant and an events organizer.
 - 💞️ I’m looking to collaborate on tech meetups, meaningful events, and faith-based discussions.
-- 📫 How to reach me: (For Business: <a href="mailto:contact@ssvideogrammer.com">contact@ssvideogrammer.com</a>, Messenger: m.me/TheJoonJav)
+- 📫 How to reach me: (For Business: <a href="mailto:contact@ssvideogrammer.com">contact@ssvideogrammer.com</a>, Messenger: <a href="m.me/TheJoonJav">TheJoonJav</a>)
 - ⚡ Fun fact: I blend my IT skills with event organizing—whether it's automating surprise reveals or using tech to make events run seamlessly!
 
 <!---
