@@ -1,10 +1,12 @@
 # Joon's README
-- 👋 Yo, this is Jonathan / Jon / Joon (@joonjavellana25)
-- 👀 I’m interested in developing web apps, editing videos, organizing events, surprising people, and deepening my faith in Christ.
-- 🌱 I’m currently learning how to grow as a Vgroup leader and balance my roles as IT consultant / Front-end.
-- 💞️ I’m looking to collaborate on tech meetups, meaningful events, and faith-based discussions.
-- 📫 How to reach me: (For Business: <a href="mailto:contact@ssvideogrammer.com">contact@ssvideogrammer.com</a>, Messenger: <a href="m.me/TheJoonJav">TheJoonJav</a>)
-- ⚡ Fun fact: I blend my IT skills with event organizing—whether it's automating surprise reveals or using tech to make events run seamlessly!
+👋 Hey there! I’m Jonathan / Jon / Joon.  
+
+💻 **What I do**: IT Consultant | Front-end Dev | Event Organizer | Surprise Master  
+✨ **What I’m into**: Building web apps, video editing, organizing unforgettable events, surprising people, and deepening my faith in Christ.  
+📚 **Currently learning**: How to grow as a Vgroup leader while balancing tech and event roles.  
+🤝 **Let’s collaborate on**: Tech meetups, meaningful events, and faith-based discussions.  
+📫 **Reach me**: (For Business: <a href="mailto:contact@ssvideogrammer.com">contact@ssvideogrammer.com</a>, Messenger: <a href="m.me/TheJoonJav">TheJoonJav</a>)
+⚡ **Fun fact**: I mix tech with event planning—automating surprises and making events run like clockwork!
 
 <!---
 joonjavellana25/joonjavellana25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
