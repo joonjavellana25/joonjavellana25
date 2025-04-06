@@ -3,7 +3,7 @@
 
 💻 **What I do**: IT Consultant | Front-end Dev | Event Organizer | Surprise Master  
 ✨ **What I’m into**: Building web apps, video editing, organizing unforgettable events, surprising people, and deepening my faith in Christ.  
-📚 **Currently learning**: How to grow as a Vgroup leader while balancing tech and event roles.  
+📚 **Currently learning**: Being a content creator while balancing tech and event roles.  
 🤝 **Let’s collaborate on**: Tech meetups, meaningful events, and faith-based discussions.  
 📫 **Reach me**: <a href="mailto:hello@joonjavellana.com">hello [at] joonjavellana [dot] com</a>, For collabs/biz/engagements: <a href="mailto:contact@ssvideogrammer.com">contact [at] ssvideogrammer [dot] com</a> Messenger: <a href="m.me/TheJoonJav">TheJoonJav</a>  
 ⚡ **Fun fact**: I mix tech with event planning—automating surprises and making events run like clockwork!
