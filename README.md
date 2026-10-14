@@ -26,7 +26,6 @@
 ---
 
 ### 📫 Reach Me
-- 📧 Personal: [hello@joonjavellana.com](mailto:hello@joonjavellana.com)  
 - 📧 Collabs/Biz: [contact@ssvideogrammer.com](mailto:contact@ssvideogrammer.com)  
 - 💬 Messenger: [m.me/TheJoonJav](https://m.me/TheJoonJav)  
 
